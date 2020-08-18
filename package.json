@@ -1,0 +1,18 @@
+{
+  "name": "vue-preset-template",
+  "version": "0.0.1",
+  "description": "vue起步项目模板",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffangtu/vue-preset-template.git"
+  },
+  "author": "fangtu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3"
+  }
+}
