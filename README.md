@@ -16,6 +16,3 @@
 ## 克隆后本地测试：
 `vue create -p ./ <project-name>`
 ---
-
-"# vue-preset-template" 
-"# vue-preset-template" 
